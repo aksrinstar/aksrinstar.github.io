@@ -1,22 +1,39 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://aksrinstar.github.io/</id>
-    <title>Gridea</title>
-    <updated>2025-02-12T02:33:40.909Z</updated>
+    <title>Aksres&apos;s Blog</title>
+    <updated>2025-02-12T03:27:15.011Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://aksrinstar.github.io/"/>
     <link rel="self" href="https://aksrinstar.github.io/atom.xml"/>
     <subtitle>Aksres&apos;s Blog</subtitle>
     <logo>https://aksrinstar.github.io/images/avatar.png</logo>
     <icon>https://aksrinstar.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2025, Gridea</rights>
+    <rights>All rights reserved 2025, Aksres&apos;s Blog</rights>
     <entry>
-        <title type="html"><![CDATA[Test Article]]></title>
+        <title type="html"><![CDATA[关于]]></title>
+        <id>https://aksrinstar.github.io/post/about/</id>
+        <link href="https://aksrinstar.github.io/post/about/">
+        </link>
+        <updated>2025-02-12T03:19:44.000Z</updated>
+        <content type="html"><![CDATA[<p>这是 Aksres 的小站，曾经他有两个 Blog，一个因为hexo炸了，一个因为Gridea炸了，于是他换了个新的。</p>
+<p>没有想到退役之后还会把之前的Blog重新弄起来，之后这个站也不会搞和OI有关的东西了，就当作生活的笔记和分享吧。</p>
+<p>时间线：<br>
+2025-2-12 完成Gridea初次同步</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FM23/24迷惑挑战大赏]]></title>
         <id>https://aksrinstar.github.io/post/test-article/</id>
         <link href="https://aksrinstar.github.io/post/test-article/">
         </link>
         <updated>2025-02-09T03:08:24.000Z</updated>
-        <content type="html"><![CDATA[<p>test</p>
+        <summary type="html"><![CDATA[<p>FM23/24迷惑挑战大赏列表，不用核武不SL全部能打通的可以去当现在的热翔替代渤海了。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>FM23/24迷惑挑战大赏列表，不用核武不SL全部能打通的可以去当现在的热翔替代渤海了。</p>
+<!-- more -->
+<h3 id="1-2223托特纳姆">1 22/23托特纳姆</h3>
+<p>地域难度，由于孔圣上赛季爆种拿了前4导致董事会目标特别奇葩。首先是强制进欧冠，甚至要求5年之内向欧冠冠军发起冲击。<s>反观现在的热刺俯冲降级区哈哈哈哈哈真的好笑</s></p>
 ]]></content>
     </entry>
 </feed>
